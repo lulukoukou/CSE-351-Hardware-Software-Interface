@@ -1,0 +1,20 @@
+********************
+* Lab 2 Reflection *
+********************
+Name: QIHAN ZHAO
+ID:   1726473
+
+
+-----------------------------------------------------------
+1) &value:  0x7fffffffd95c
+   &array:  0x7fffffffd960
+-----------------------------------------------------------
+2) Replacement Instruction:  lea    0x10(%rsp),%rax
+-----------------------------------------------------------
+3) Start instr 1: mov $0x2, %eax 
+   - Reason:  We could initialize the return register with 0x2, and it alsoe indicates the constant 0x2
+   
+   Start instr 2: imul $0x3, %edi
+   - Reason:  We could do the multiplication at first, assumed that variable i is stored in %edi.
+              The imul instruction will multipy i by 0x3 and store in %edi.
+-----------------------------------------------------------

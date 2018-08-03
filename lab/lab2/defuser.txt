@@ -1,0 +1,7 @@
+Speedy thing goes in, speedy thing comes out.
+0 1 2 0 1 2
+0 o 753
+8
+13 69
+1 5 4 2 6 3
+

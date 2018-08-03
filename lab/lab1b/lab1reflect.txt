@@ -1,0 +1,18 @@
+********************
+* Lab 1 Reflection *
+********************
+Name: QIHAN ZHAO
+ID: 1726473
+
+
+-----------------------------------------------------------
+1) Answer in hex: 0x20  
+-----------------------------------------------------------
+2) Answer in decimal: -2147483298 
+-----------------------------------------------------------
+3) Explain:
+int y = -1; it is sure that y is the signed number
+int y = 0xffffffff; it is not sure whether it is signed or unsigned number.
+if making comparsion between them, the '-1' will be casted to the extremely large unsigned number
+
+-----------------------------------------------------------
