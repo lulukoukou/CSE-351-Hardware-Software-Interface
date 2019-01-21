@@ -1,4 +1,4 @@
-# Hardware-Software-Interface
+# UW-CSE-351-Hardware-Software-Interface
 lab1 - Pointers and Bits in C
 
 lab2 - Disassembling and Defusing a Binary Bomb
